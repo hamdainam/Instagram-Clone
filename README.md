@@ -12,7 +12,7 @@ This project is a frontend practice project inspired by Instagram. It focuses on
 - Stories section
 - Posts and feed layout
 - Like and comment icons
-- Light and dark mode
+  
 
 ## Technologies Used
 
@@ -20,7 +20,7 @@ This project is a frontend practice project inspired by Instagram. It focuses on
 - CSS
 - JavaScript
 - React.js
-- Vite
+
 
 ## How to Run Locally
 
