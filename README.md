@@ -1,16 +1,45 @@
-# React + Vite
+# Instagram Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern Instagram-inspired homepage built with React.js.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project is a frontend practice project inspired by Instagram. It focuses on building a clean, modern, and user-friendly social media interface.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Instagram-style header
+- Stories section
+- Posts and feed layout
+- Like and comment icons
+- Light and dark mode
 
-## Expanding the Oxlint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Vite
+
+## How to Run Locally
+
+1. Clone the repository.
+2. Open the project folder.
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+## Author
+
+Hamda Inam
+
+Frontend Developer | Learning and building every day.
